@@ -179,5 +179,5 @@
 
 .popular-foods__card.active-card .popular-foods__card-price {
   font-size: 24px;
-  coloe: var(--secondary-color);
+  color: var(--secondary-color);
 }
